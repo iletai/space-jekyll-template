@@ -20,10 +20,10 @@ categories:
 
 To answer it let try google before. OOP(Object-oriented programming) 
 
- - [ ] Abstraction
- - [ ] Encapsulation
- - [ ] Inheritance
- - [ ] Polymorphism
+  [ ] Abstraction
+  [ ] Encapsulation
+  [ ] Inheritance
+  [ ] Polymorphism
  
 {% highlight javascript %}
 
@@ -33,19 +33,15 @@ using namespace std;
 class LearnOOP
 {
  public: 
-  LearnOOP();
-  ~LearnOOP();
+  LearnOOP(); //Constructor
+  ~LearnOOP(); //Detructor
   void DoSomeThing();
-  bool GetLearn(isLearn);
-  void SetLearn();
+  bool GetLearn(isLearn); //Get isLearn
+  void SetLearn();        //Set value isLearn
  private:
   bool isLearn;
 }
-int Main()
-{
- LearnOOP learnOOP ;
-}
-
+ 
 {% endhighlight %}
 
 ## properties
