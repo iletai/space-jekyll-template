@@ -1,11 +1,15 @@
+ 
 
+---
 layout: post
-title:  "Sharing OOP in C++"
-image: ''
-date:   2018-11-5 00:06:31
+title: "Sharing OOP C++"
+date: 2018-11-5 01:00:00
+image: '/assets/img/post-image.png'
+description: 'about tech'
 tags:
-- oopcpp
-description: ''
+- cpp
+- iletai
 categories:
-- Learn OOP 
+- iletai
+twitter_text: 'Understand OOP'
 ---
