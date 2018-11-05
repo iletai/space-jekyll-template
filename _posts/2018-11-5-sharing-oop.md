@@ -1,6 +1,6 @@
 
 layout: post
-title:  "Sharding in MongoDB"
+title:  "Sharing OOP in C++"
 image: ''
 date:   2018-11-5 00:06:31
 tags:
