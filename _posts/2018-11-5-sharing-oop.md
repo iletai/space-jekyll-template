@@ -25,6 +25,29 @@ To answer it let try google before. OOP(Object-oriented programming)
  - [ ] Inheritance
  - [ ] Polymorphism
  
+{% highlight javascript %}
+
+#include <iostream>
+ 
+using namespace std;
+class LearnOOP
+{
+ public: 
+  LearnOOP();
+  ~LearnOOP();
+  void DoSomeThing();
+  bool GetLearn(isLearn);
+  void SetLearn();
+ private:
+  bool isLearn;
+}
+int Main()
+{
+ LearnOOP learnOOP ;
+}
+
+{% endhighlight %}
+
 ## properties
 
 ## advance
