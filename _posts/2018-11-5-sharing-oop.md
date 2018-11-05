@@ -10,6 +10,13 @@ categories:
 - iletai 
 ---
 
-<p> This is first sharing about OOP in C++</p>
-
+ 
 ## OOP ? Why we must understand it to have a knowledge ?
+
+# First i want say something about OOP? Why we must using OOP and somethingelse..
+
+|Acess|Public| Protected|Private|
+|--|--|--|--|
+|In class|`Yes`|`Yes`|`Yes`
+|In inheritance class|`Yes`|`Yes`|`No`
+|Out class|`Yes`|`No`|`No`
