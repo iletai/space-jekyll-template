@@ -17,8 +17,14 @@ categories:
 
 ## oop
  ### What is OOP? 
+
 To answer it let try google before. OOP(Object-oriented programming) 
 
+ - [ ] Abstraction
+ - [ ] Encapsulation
+ - [ ] Inheritance
+ - [ ] Polymorphism
+ 
 ## properties
 
 ## advance
