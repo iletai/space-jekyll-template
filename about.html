@@ -5,68 +5,70 @@ permalink: /about/index.html
 description: "Some description about Le Tai..."
 ---
 
-<img itemprop="image" class="img-rounded about_perfil" src="https://avatars2.githubusercontent.com/u/26614687?s=400&u=9508cde00bd616026ff56dc1a30584736859bcef&v=4" alt="My profile">
+<img itemprop="image" class="img-rounded about_perfil" src="https://avatars2.githubusercontent.com/u/26614687?s=400&u=9508cde00bd616026ff56dc1a30584736859bcef&v=4"
+ alt="My profile">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
-.card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  max-width: 900px;
-  margin: auto;
-  text-align: center;
-  font-family: arial;
-}
+	.card {
+		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+		max-width: 300px;
+		margin: auto;
+		text-align: center;
+		font-family: arial;
+	}
 
-.title {
-  color: grey;
-  font-size: 18px;
-}
+	.title {
+		color: grey;
+		font-size: 18px;
+	}
 
-button {
-  border: none;
-  outline: 0;
-  display: inline-block;
-  padding: 8px;
-  color: white;
-  background-color: #000;
-  text-align: center;
-  cursor: pointer;
-  width: 100%;
-  font-size: 18px;
-}
+	button {
+		border: none;
+		outline: 0;
+		display: inline-block;
+		padding: 8px;
+		color: white;
+		background-color: #000;
+		text-align: center;
+		cursor: pointer;
+		width: 100%;
+		font-size: 18px;
+	}
 
-a {
-  text-decoration: none;
-  font-size: 22px;
-  color: black;
-}
+	a {
+		text-decoration: none;
+		font-size: 22px;
+		color: black;
+	}
 
-button:hover, a:hover {
-  opacity: 0.7;
-}
+	button:hover,
+	a:hover {
+		opacity: 0.7;
+	}
 </style>
- 
+
 <h2 style="text-align:center">About me</h2>
 
 <div class="card">
- 
-  <h1>LE QUANG TRONG TAI</h1>
-  <p class="title">Hue, Viet Nam</p>
-  <p>Programmer at Gameloft Viet Nam</p>
-  <div style="margin: 24px 0;">
-    <a href="#"><i class="fa fa-dribbble"></i></a> 
-    <a href="#"><i class="fa fa-twitter"></i></a>  
-    <a href="#"><i class="fa fa-linkedin"></i></a>  
-    <a href="https://facebook.com/iletai"><i class="fa fa-facebook"></i></a> 
- </div>
- <p><button>Contact</button></p>
-</div>
 
-<h2>My projects</h2>
-
-<div class="aboutme">
-	<ul class="recent">
-		{% for project in site.projects %}
-	    	<li><a href="{{ project.url}}"><h3 class="project-name" itemprop="name">{{ project.name }}</h3></a></li>
-	    {% endfor %}
-	</ul>
+	<h1>LE QUANG TRONG TAI</h1>
+	<p class="title">Hue, Viet Nam</p>
+	<p>Programmer at Gameloft Viet Nam</p>
+	<h2>My projects</h2>
+	<div class="aboutme">
+		<ul class="recent">
+			{% for project in site.projects %}
+			<li><a href="{{ project.url}}">
+					<h3 class="project-name" itemprop="name">{{ project.name }}</h3>
+				</a></li>
+			{% endfor %}
+		</ul>
+	</div>
+	<div style="margin: 24px 0;">
+		<a href="#"><i class="fa fa-dribbble"></i></a>
+		<a href="#"><i class="fa fa-twitter"></i></a>
+		<a href="#"><i class="fa fa-linkedin"></i></a>
+		<a href="https://facebook.com/iletai"><i class="fa fa-facebook"></i></a>
+	</div>
+	<p><button>Contact</button></p>
 </div>
