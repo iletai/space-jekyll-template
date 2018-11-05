@@ -14,8 +14,6 @@ categories:
 ## OOP ? Why we must understand it to have a knowledge ?
 
 # First i want say something about OOP? Why we must using OOP and somethingelse..
-
-<div align="right">
  
 |Acess|Public| Protected|Private|
 |--|--|--|--|
@@ -23,4 +21,4 @@ categories:
 |In inheritance class|`Yes`|`Yes`|`No`
 |Out class|`Yes`|`No`|`No`
 
-</div>
+ 
