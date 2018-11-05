@@ -18,7 +18,13 @@ categories:
 ## oop
  ### What is OOP? 
 
-To answer it let try google before. OOP(Object-oriented programming) 
+OOP(Object-oriented programming) 
+
+* Object 
+
+- What is Object? It can be a pig, a dog, a human or a pen, table..
+
+OOP have atribute: 
 
  - [ ] Abstraction
  - [ ] Encapsulation
