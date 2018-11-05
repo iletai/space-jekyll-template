@@ -53,16 +53,18 @@ description: "Some description about Le Tai..."
 
 	<h1>LE QUANG TRONG TAI</h1>
 	<p class="title">Hue, Viet Nam</p>
-	<p>Programmer at Gameloft Viet Nam</p>
-	<h2>My projects</h2>
-	<div class="aboutme">
-		<ul class="recent">
-			{% for project in site.projects %}
-			<li><a href="{{ project.url}}">
-					<h3 class="project-name" itemprop="name">{{ project.name }}</h3>
-				</a></li>
-			{% endfor %}
-		</ul>
+	<p class="title">Programmer at Gameloft Viet Nam</p>
+	<h2 style="text-align:left">My projects</h2>
+	<div style="text-align:left">
+		<div class="aboutme">
+			<ul class="recent">
+				{% for project in site.projects %}
+				<li><a href="{{ project.url}}">
+						<h3 class="project-name" itemprop="name">{{ project.name }}</h3>
+					</a></li>
+				{% endfor %}
+			</ul>
+	</div>
 	</div>
 	<div style="margin: 24px 0;">
 		<a href="#"><i class="fa fa-dribbble"></i></a>
