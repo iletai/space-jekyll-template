@@ -34,6 +34,8 @@ OOP have atribute:
   <script src="https://gist.github.com/iletai/21c847bdc2b498ae57f9ed1557663bcf.js"></script> 
  </div>
  
+ <iframe style="height:300px; width:300px;" src="https://gist.github.com/iletai/21c847bdc2b498ae57f9ed1557663bcf.js"></iframe>
+
 {% highlight javascript %}
 
 #include <iostream>
