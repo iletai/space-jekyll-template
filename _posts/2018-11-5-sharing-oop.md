@@ -10,10 +10,14 @@ categories:
 - iletai 
 ---
 
- 
-## OOP ? Why we must understand it to have a knowledge ?
+ # OOP
+1. [What is OOP](#oop)
+2. [Properties of OOP](#properties)
+3. [Advance of OOP](#advance)
 
-# First i want say something about OOP? Why we must using OOP and somethingelse..
+## oop
+## properties
+## advance
  
 |Acess|Public| Protected|Private|
 |--|--|--|--|
