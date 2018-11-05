@@ -59,12 +59,12 @@ links:
 
 # projects in header index
 projects:
-  - name: fluany
+  - name: FAChat
     url: https://github.com/iletai/FAChat
   - name: vim-frontend
-    url: https://github.com/ileta/
+    url: https://github.com/iletai/
   - name: generator-capybara
-    url: https://github.com/victorvoid/generator-capybara 
+    url: https://github.com/iletai/generator-capybara 
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
