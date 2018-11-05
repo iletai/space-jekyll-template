@@ -20,10 +20,10 @@ categories:
 
 To answer it let try google before. OOP(Object-oriented programming) 
 
-  [ ] Abstraction
-  [ ] Encapsulation
-  [ ] Inheritance
-  [ ] Polymorphism
+ - [ ] Abstraction
+ - [ ] Encapsulation
+ - [ ] Inheritance
+ - [ ] Polymorphism
  
 {% highlight javascript %}
 
