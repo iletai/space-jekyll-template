@@ -15,8 +15,12 @@ categories:
 
 # First i want say something about OOP? Why we must using OOP and somethingelse..
 
+<div align="right">
+ 
 |Acess|Public| Protected|Private|
 |--|--|--|--|
 |In class|`Yes`|`Yes`|`Yes`
 |In inheritance class|`Yes`|`Yes`|`No`
 |Out class|`Yes`|`No`|`No`
+
+</div>
