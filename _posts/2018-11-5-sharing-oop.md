@@ -1,5 +1,3 @@
- 
-
 ---
 layout: post
 title: "Sharing OOP C++"
