@@ -5,15 +5,15 @@ baseurl: "/space-jekyll-template" # for test: remove string '/space-jekyll-templ
 url: "http://iletai.github.io/space-jekyll-template/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
 
 # User settings
-username: lorem ipsum
+username: iletai
 user_title: Lorem Ipsum - FrontEnd
-email: lorem.lorem@ipsum.com
-twitter_username: loremipsum
+email: iletai@hotmail.com
+twitter_username: tai.lqt
 github_username:  iletai
-gplus_username:  loremipsum
+gplus_username:  lequangtrongtai
 linkedin_public_url: iletai # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
-disqus_username: loremipsum
-profile_picture: https://68.media.tumblr.com/93f384858e9273d5b980b418e2f2f4d5/tumblr_o5i2aybLJG1uapsfmo2_250.png
+disqus_username: iletai
+profile_picture: https://avatars2.githubusercontent.com/u/26614687?s=400&u=9508cde00bd616026ff56dc1a30584736859bcef&v=4
 
 # Build settings
 markdown: kramdown
@@ -51,7 +51,7 @@ links:
       new_tab: true
       key_trigger: g
     - title: twitter
-      url: http://www.twitter.com/tai.lqt
+      url: http://www.twitter.com/iletai
       key_trigger: t
     - title: search
       url: ""
@@ -60,9 +60,9 @@ links:
 # projects in header index
 projects:
   - name: fluany
-    url: https://github.com/fluany/fluany
+    url: https://github.com/iletai/FAChat
   - name: vim-frontend
-    url: https://github.com/victorvoid/vim-frontend
+    url: https://github.com/ileta/
   - name: generator-capybara
     url: https://github.com/victorvoid/generator-capybara 
 
