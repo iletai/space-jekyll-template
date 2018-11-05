@@ -19,9 +19,8 @@ categories:
  ### What is OOP? 
 
 OOP(Object-oriented programming) 
-
-* Object 
-> What is Object? It can be a pig, a dog, a human or a pen, table..
+ * Object 
+  > What is Object? It can be a pig, a dog, a human or a pen, table..
 
 
 OOP have atribute: 
