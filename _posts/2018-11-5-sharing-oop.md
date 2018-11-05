@@ -30,7 +30,7 @@ OOP have atribute:
  - [ ] Inheritance
  - [ ] Polymorphism
  
- <div style="height:700px; width:900px;">
+ <div align = "center" style="height:700px; width:900px;">
   <script src="https://gist.github.com/iletai/21c847bdc2b498ae57f9ed1557663bcf.js"></script> 
  </div>
 
