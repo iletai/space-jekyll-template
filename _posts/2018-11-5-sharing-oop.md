@@ -30,8 +30,11 @@ OOP have atribute:
  - [ ] Inheritance
  - [ ] Polymorphism
  
-<script src="https://gist.github.com/iletai/21c847bdc2b498ae57f9ed1557663bcf.js"></script> 
+ <div style="margin: 50px 0;">
  
+  <script src="https://gist.github.com/iletai/21c847bdc2b498ae57f9ed1557663bcf.js"></script> 
+ 
+ </div>
 {% highlight javascript %}
 
 #include <iostream>
