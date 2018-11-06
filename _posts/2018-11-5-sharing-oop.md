@@ -88,43 +88,4 @@ class LearnOOP
     <td> <img src="https://github.com/iletai/space-jekyll-template/blob/master/src/img/object-oriented-programming-oop.png?raw=true" alt="Drawing" style="width: 250px;"/> </td>
   </tr></table>
   
-<table>
-<tr>
-<th>
-Status
-</th>
-<th>
-Response
-</th>
-</tr>
 
-<tr>
-
-<td>
-<pre>
-<br/><br/><br/>200<br/><br/><br/><br/><br/>400<br/>
-</pre>
-</td>
-
-<td>
-<pre>
-#include <iostream>
-
-using namespace std;
-class LearnOOP
-{
- public: 
-  LearnOOP(); //Constructor
-  ~LearnOOP(); //Detructor
-  void DoSomeThing();
-  bool GetLearn(isLearn); //Get isLearn
-  void SetLearn();        //Set value isLearn
- private:
-  bool isLearn;
-}
-}
-</pre>
-</td>
-
-</tr>
-</table>
