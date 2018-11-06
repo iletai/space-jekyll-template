@@ -15,12 +15,13 @@ categories:
 </h1>
 <hr/>
 
-1. [What is OOP](#oop)
-2. [Properties of OOP](#properties)
-3. [Advance of OOP](#advance)
+- [What is OOP](#oop)
+- [Properties of OOP](#properties)
+- [Advance of OOP](#advance)
 
-1. OOP
----
+
+## OOP
+--------
 
  ### What is OOP? 
 
