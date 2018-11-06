@@ -51,33 +51,25 @@ description: "Some description about Le Tai..."
 
 	<h1>LE QUANG TRONG TAI</h1>
 	<p class="title">Hue, Viet Nam<br>Programmer at Gameloft Viet Nam</p>
-	<div id="content" class="container">
-		<div>
+	<div>
+		<div style="text-align:left; float: left;width: 600; background: red">
 			<h2 style="text-align:left">My projects</h2>
-			<div style="text-align:left">
-				<div class="aboutme">
-					<ul class="recent">
-						{% for project in site.projects %}
-						<li><a href="{{ project.url}}">
-								<h3 class="project-name" itemprop="name">{{ project.name }}</h3>
-							</a></li>
-						{% endfor %}
-					</ul>
-				</div>
-
+			<div class="aboutme">
+				<ul class="recent">
+					{% for project in site.projects %}
+					<li><a href="{{ project.url}}">
+							<h3 class="project-name" itemprop="name">{{ project.name }}</h3>
+						</a></li>
+					{% endfor %}
+				</ul>
 			</div>
 		</div>
-		<div style="width: 600px;
-		height: 100;
-		background: #9400D3;
-		float:right;">
-			<h2 style="text-align:center">Something Here</h2>
-
-
+		<div style="float: right;text-align:center;width: 600px; background: #9400D3;">
+			<h2> Something here</h2>
 		</div>
 	</div>
 
-	<div style="margin: 24px 0;">
+	<div style="margin: 24 0; clear:both">
 		<a href="#"><i class="fa fa-dribbble"></i></a>
 		<a href="https://twitter.com/tailqt"><i class="fa fa-twitter"></i></a>
 		<a href="#"><i class="fa fa-linkedin"></i></a>
