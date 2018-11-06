@@ -45,15 +45,19 @@ OOP have atribute:
  - [Polymorphism](#polymorphism)
 
   # abstraction
+  
     - Something here
 
   # encapsulation
+  
     - Something here
 
   # inheritance
+  
     - Something here
 
   # polymorphism
+  
     - Something here
     
 {% highlight javascript %}
