@@ -30,29 +30,20 @@ OOP(Object-oriented programming)
   > What is Object? It can be a pig, a dog, a human or a pen, table..
 
 
-OOP have atribute: 
+### OOP have atribute: 
 
-  [Abstraction ](#abstraction)
-  [Encapsulation](#encapsulation)
-  [Inheritance](#inheritance)
-  [Polymorphism](#polymorphism)
+  - [Abstraction](#abstraction)
+    - [Abstraction/Somehere](#somehere)
+    - [Spritesheet Tools](#spritesheet-tools)
+    - [Bitmap Compression](#bitmap-compression)
+  - [Encapsulation](#encapsulation)
+  - [Inheritance](#inheritance)
+  - [Polymorphism](#polymorphism)
 
-  # abstraction
-  
-    Something here
+Abstraction  
+ --------
+*Great graphics placeholders and tools to turn that squared game into a picasso painting*
 
-  # encapsulation
-  
-    Something here
-
-  # inheritance
-  
-    Something here
-
-  # polymorphism
-  
-    Something here
-    
 {% highlight javascript %}
 #include <iostream>
 
