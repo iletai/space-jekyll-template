@@ -30,16 +30,16 @@ OOP have atribute:
  - [Inheritance](#inheritance)
  - [Polymorphism](#polymorphism)
 
-  ### abstraction
+  # abstraction
     - Something here
 
-  ### encapsulation
+  # encapsulation
     - Something here
 
-  ### inheritance
+  # inheritance
     - Something here
 
-  ### polymorphism
+  # polymorphism
     - Something here
     
 {% highlight javascript %}
