@@ -88,7 +88,7 @@ class LearnOOP
     <td> <img src="https://github.com/iletai/space-jekyll-template/blob/master/src/img/object-oriented-programming-oop.png?raw=true" alt="Drawing" style="width: 250px;"/> </td>
   </tr></table>
   
-   <table><tr>
+   <table><tr><td style="width: 250px;>
   {% highlight javascript %}
 #include <iostream>
 
@@ -105,4 +105,4 @@ class LearnOOP
   bool isLearn;
 }
 {% endhighlight %}
-</tr></table>
+</td></tr></table>
