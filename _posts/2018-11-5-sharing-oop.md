@@ -74,9 +74,9 @@ class LearnOOP
 }
 {% endhighlight %}
 
-## properties
+## Properties
 
-## advance
+## Advance
  
 |Acess|Public| Protected|Private|
 |--|--|--|--|
