@@ -18,13 +18,6 @@ categories:
 </p>
 <hr/>
 
-
-
-- :free: - Free
-- :tada: - Open Source
-- :moneybag: - Paid
-- :money_with_wings: - Partially Free
-
 1. [What is OOP](#oop)
 2. [Properties of OOP](#properties)
 3. [Advance of OOP](#advance)
@@ -39,26 +32,26 @@ OOP(Object-oriented programming)
 
 OOP have atribute: 
 
- - [Abstraction ](#abstraction)
- - [Encapsulation](#encapsulation)
- - [Inheritance](#inheritance)
- - [Polymorphism](#polymorphism)
+  [Abstraction ](#abstraction)
+  [Encapsulation](#encapsulation)
+  [Inheritance](#inheritance)
+  [Polymorphism](#polymorphism)
 
   # abstraction
   
-    - Something here
+    Something here
 
   # encapsulation
   
-    - Something here
+    Something here
 
   # inheritance
   
-    - Something here
+    Something here
 
   # polymorphism
   
-    - Something here
+    Something here
     
 {% highlight javascript %}
 #include <iostream>
