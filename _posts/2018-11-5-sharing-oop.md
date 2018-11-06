@@ -87,3 +87,22 @@ class LearnOOP
     <td> <img src="https://github.com/iletai/space-jekyll-template/blob/master/src/img/object-oriented-programming-oop.png?raw=true" alt="Drawing" style="width: 250px;"/> </td>
     <td> <img src="https://github.com/iletai/space-jekyll-template/blob/master/src/img/object-oriented-programming-oop.png?raw=true" alt="Drawing" style="width: 250px;"/> </td>
   </tr></table>
+  
+   <table><tr>
+  {% highlight javascript %}
+#include <iostream>
+
+using namespace std;
+class LearnOOP
+{
+ public: 
+  LearnOOP(); //Constructor
+  ~LearnOOP(); //Detructor
+  void DoSomeThing();
+  bool GetLearn(isLearn); //Get isLearn
+  void SetLearn();        //Set value isLearn
+ private:
+  bool isLearn;
+}
+{% endhighlight %}
+</tr></table>
