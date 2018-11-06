@@ -13,9 +13,6 @@ categories:
 <h1 align="center">
     <img width="1200" src="https://github.com/iletai/space-jekyll-template/blob/master/src/img/object-oriented-programming-oop.png?raw=true" alt="logo"/>
 </h1>
-<p align="center">
-    <a href="https://travis-ci.org/ellisonleao/magictools"><img src="https://travis-ci.org/ellisonleao/magictools.svg?branch=master" alt="build"/></a>
-</p>
 <hr/>
 
 1. [What is OOP](#oop)
@@ -23,6 +20,7 @@ categories:
 3. [Advance of OOP](#advance)
 
 ## OOP
+
  ### What is OOP? 
 
 OOP(Object-oriented programming) 
