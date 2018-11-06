@@ -25,20 +25,26 @@ OOP(Object-oriented programming)
 
 OOP have atribute: 
 
- - [ ] Abstraction
- - [ ] Encapsulation
- - [ ] Inheritance
- - [ ] Polymorphism
- 
- <div style="width:800px; margin:0 auto;">
-  <script src="https://gist.github.com/iletai/21c847bdc2b498ae57f9ed1557663bcf.js"></script> 
- </div>
+ - [ ] Abstraction(#abstraction)
+ - [ ] Encapsulation(#encapsulation)
+ - [ ] Inheritance(#inheritance)
+ - [ ] Polymorphism(#polymorphism)
 
-<div style = "width:800px; margin: 0 auto>
+  ### abstraction
+    - Something here
+
+  ### encapsulation
+    - Something here
+
+  ### inheritance
+    - Something here
+
+  ### polymorphism
+    - Something here
+    
 {% highlight javascript %}
-
 #include <iostream>
- 
+
 using namespace std;
 class LearnOOP
 {
@@ -51,9 +57,8 @@ class LearnOOP
  private:
   bool isLearn;
 }
- 
 {% endhighlight %}
-</div>
+
 ## properties
 
 ## advance
