@@ -56,23 +56,6 @@ OOP(Object-oriented programming)
 *Great graphics placeholders and tools to turn that squared game into a picasso painting*
 *Edit here*
 
-```
-#include <iostream>
-
-using namespace std;
-class LearnOOP
-{
- public: 
-  LearnOOP(); //Constructor
-  ~LearnOOP(); //Detructor
-  void DoSomeThing();
-  bool GetLearn(isLearn); //Get isLearn
-  void SetLearn();        //Set value isLearn
- private:
-  bool isLearn;
-}
-```
-
 {% highlight javascript %}
 #include <iostream>
 
