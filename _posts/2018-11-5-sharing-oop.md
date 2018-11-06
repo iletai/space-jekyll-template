@@ -20,10 +20,10 @@ categories:
 - [Advance of OOP](#advance)
 
 
-## OOP
+### OOP
 --------
 
- ### What is OOP? 
+ #### What is OOP? 
 
 OOP(Object-oriented programming) 
  * Object 
@@ -40,19 +40,19 @@ OOP(Object-oriented programming)
   - [Inheritance](#inheritance)
   - [Polymorphism](#polymorphism)
 
-### Abstraction  
+#### Abstraction  
 --------
 *Great graphics placeholders and tools to turn that squared game into a picasso painting*
 
-### Encapsulation
+#### Encapsulation
 --------
 *Great graphics placeholders and tools to turn that squared game into a picasso painting*
 
-### Inheritance
+#### Inheritance
 --------
 *Great graphics placeholders and tools to turn that squared game into a picasso painting*
 
-### Polymorphism
+#### Polymorphism
 --------
 *Great graphics placeholders and tools to turn that squared game into a picasso painting*
 *Edit here*
@@ -74,9 +74,9 @@ class LearnOOP
 }
 {% endhighlight %}
 
-## Properties
+### Properties
 
-## Advance
+### Advance
  
 |Acess|Public| Protected|Private|
 |--|--|--|--|
