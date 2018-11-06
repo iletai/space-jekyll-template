@@ -43,3 +43,7 @@ categories:
 - [Learn](#learn)
   - [General Game Development](#general-game-development)
   - [Computer Graphics](#computer-graphics)
+
+Graphics
+--------
+*Great graphics placeholders and tools to turn that squared game into a picasso painting*
