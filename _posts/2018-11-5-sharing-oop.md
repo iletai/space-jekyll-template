@@ -22,7 +22,7 @@ categories:
 2. [Properties of OOP](#properties)
 3. [Advance of OOP](#advance)
 
-## oop
+## OOP
  ### What is OOP? 
 
 OOP(Object-oriented programming) 
@@ -43,6 +43,19 @@ OOP(Object-oriented programming)
 Abstraction  
 --------
 *Great graphics placeholders and tools to turn that squared game into a picasso painting*
+
+Encapsulation
+--------
+*Great graphics placeholders and tools to turn that squared game into a picasso painting*
+
+Inheritance
+--------
+*Great graphics placeholders and tools to turn that squared game into a picasso painting*
+
+Polymorphism
+--------
+*Great graphics placeholders and tools to turn that squared game into a picasso painting*
+*Edit here*
 
 {% highlight javascript %}
 #include <iostream>
