@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Sharing OOP C++"
+title: "Sharing Markdown"
 image: ''
-date: 2018-11-5 01:00:00
+date: 2018-11-6 01:00:00
 tags:
-- cpp
+- markdown
 description: ''
 categories:
-- iletai 
+- markdown 
 ---
 
 ## Table of Contents
