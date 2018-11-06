@@ -25,10 +25,10 @@ OOP(Object-oriented programming)
 
 OOP have atribute: 
 
- - [ ] Abstraction(#abstraction)
- - [ ] Encapsulation(#encapsulation)
- - [ ] Inheritance(#inheritance)
- - [ ] Polymorphism(#polymorphism)
+ - [Abstraction ](#abstraction)
+ - [Encapsulation](#encapsulation)
+ - [Inheritance](#inheritance)
+ - [Polymorphism](#polymorphism)
 
   ### abstraction
     - Something here
