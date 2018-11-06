@@ -41,7 +41,7 @@ OOP(Object-oriented programming)
   - [Polymorphism](#polymorphism)
 
 Abstraction  
- --------
+--------
 *Great graphics placeholders and tools to turn that squared game into a picasso painting*
 
 {% highlight javascript %}
