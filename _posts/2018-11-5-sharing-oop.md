@@ -23,8 +23,7 @@ categories:
 ### OOP
 --------
 
- #### What is OOP? 
-
+**What is OOP?**
 OOP(Object-oriented programming) 
  * Object 
   > What is Object? It can be a pig, a dog, a human or a pen, table..
