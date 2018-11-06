@@ -19,7 +19,8 @@ categories:
 2. [Properties of OOP](#properties)
 3. [Advance of OOP](#advance)
 
-## OOP
+1. OOP
+---
 
  ### What is OOP? 
 
