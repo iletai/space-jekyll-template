@@ -11,7 +11,7 @@ categories:
 ---
 
 <h1 align="center">
-    <img width="900" src="https://github.com/iletai/space-jekyll-template/blob/master/src/img/object-oriented-programming-oop.png" alt="logo"/>
+    <img width="900" src="https://github.com/iletai/space-jekyll-template/blob/master/src/img/object-oriented-programming-oop.png?raw=true" alt="logo"/>
 </h1>
 <hr/>
 
