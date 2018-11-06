@@ -45,29 +45,45 @@ description: "Some description about Le Tai..."
 	a:hover {
 		opacity: 0.7;
 	}
+
+	#sidebar {
+		width: 600px;
+		background: #9400D3;
+		float:right;
+	}
 </style>
 
 <div class="card">
 
 	<h1>LE QUANG TRONG TAI</h1>
 	<p class="title">Hue, Viet Nam<br>Programmer at Gameloft Viet Nam</p>
-	<h2 style="text-align:left">My projects</h2>
-	<div style="text-align:left">
-		<div class="aboutme">
-			<ul class="recent">
-				{% for project in site.projects %}
-				<li><a href="{{ project.url}}">
-						<h3 class="project-name" itemprop="name">{{ project.name }}</h3>
-					</a></li>
-				{% endfor %}
-			</ul>
+	<div id= "content" class="container">
+		<div >
+			<h2 style="text-align:left">My projects</h2>
+			<div style="text-align:left">
+				<div class="aboutme">
+					<ul class="recent">
+						{% for project in site.projects %}
+						<li><a href="{{ project.url}}">
+								<h3 class="project-name" itemprop="name">{{ project.name }}</h3>
+							</a></li>
+						{% endfor %}
+					</ul>
+				</div>
+			
+			</div>
+		</div>
+		<div id="sidebar">
+			
+
 		</div>
 	</div>
 	<div style="margin: 24px 0;">
 		<a href="#"><i class="fa fa-dribbble"></i></a>
-		<a href="#"><i class="https://twitter.com/tailqt"></i></a>
+		<a href="https://twitter.com/tailqt"><i class="fa fa-twitter"></i></a>
 		<a href="#"><i class="fa fa-linkedin"></i></a>
 		<a href="https://facebook.com/iletai"><i class="fa fa-facebook"></i></a>
 	</div>
 	<p><button>Contact</button></p>
+
 </div>
