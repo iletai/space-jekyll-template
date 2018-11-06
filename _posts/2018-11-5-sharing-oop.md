@@ -10,7 +10,21 @@ categories:
 - iletai 
 ---
 
- # OOP
+<h1 align="center">
+    <img width="900" src="https://github.com/iletai/space-jekyll-template/blob/master/src/img/object-oriented-programming-oop.png" alt="logo"/>
+</h1>
+<hr/>
+
+<p align="center">
+    <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"/></a>
+    <a href="https://travis-ci.org/ellisonleao/magictools"><img src="https://travis-ci.org/ellisonleao/magictools.svg?branch=master" alt="build"/></a>
+</p>
+
+- :free: - Free
+- :tada: - Open Source
+- :moneybag: - Paid
+- :money_with_wings: - Partially Free
+
 1. [What is OOP](#oop)
 2. [Properties of OOP](#properties)
 3. [Advance of OOP](#advance)
