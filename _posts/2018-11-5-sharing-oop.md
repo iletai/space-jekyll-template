@@ -83,7 +83,7 @@ class LearnOOP
 |In inheritance class|`Yes`|`Yes`|`No`
 |Out class|`Yes`|`No`|`No`
 
- <tr>
+ <table><tr>
     <td> <img src="https://github.com/iletai/space-jekyll-template/blob/master/src/img/object-oriented-programming-oop.png?raw=true" alt="Drawing" style="width: 250px;"/> </td>
     <td> <img src="https://github.com/iletai/space-jekyll-template/blob/master/src/img/object-oriented-programming-oop.png?raw=true" alt="Drawing" style="width: 250px;"/> </td>
-    </tr>
+  </tr></table>
