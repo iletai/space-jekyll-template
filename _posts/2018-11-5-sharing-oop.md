@@ -11,13 +11,14 @@ categories:
 ---
 
 <h1 align="center">
-    <img width="900" src="https://github.com/iletai/space-jekyll-template/blob/master/src/img/object-oriented-programming-oop.png?raw=true" alt="logo"/>
+    <img width="1200" src="https://github.com/iletai/space-jekyll-template/blob/master/src/img/object-oriented-programming-oop.png?raw=true" alt="logo"/>
 </h1>
-<hr/>
-
 <p align="center">
     <a href="https://travis-ci.org/ellisonleao/magictools"><img src="https://travis-ci.org/ellisonleao/magictools.svg?branch=master" alt="build"/></a>
 </p>
+<hr/>
+
+
 
 - :free: - Free
 - :tada: - Open Source
