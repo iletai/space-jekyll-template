@@ -79,8 +79,8 @@ OOP(Object-oriented programming)
      
 ### OOP have atribute: 
 
-  - [Abstraction](#abstractionskill)
-    - [Abstraction/Somehere](#somehere)
+  - [Abstraction](#abstraction)
+    - [Abstraction/Somehere](#Abstractionskill)
     - [Spritesheet Tools](#spritesheet-tools)
     - [Bitmap Compression](#bitmap-compression)
   - [Encapsulation](#encapsulation)
