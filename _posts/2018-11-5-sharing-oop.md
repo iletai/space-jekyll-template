@@ -52,6 +52,13 @@ OOP(Object-oriented programming)
       Eats;
      ...
      ```
+     ```
+     /// Exampe:
+     MyPig;
+
+     ///It look like this:
+     int myPig;
+     ```
 
 ### OOP have atribute: 
 
