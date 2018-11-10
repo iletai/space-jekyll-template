@@ -59,7 +59,23 @@ OOP(Object-oriented programming)
      ///It look like this:
      int myPig;
      ```
+     
+     ```
+       #include <iostream>
 
+       using namespace std;
+       class LearnOOP
+       {
+        public: 
+         LearnOOP(); //Constructor
+         ~LearnOOP(); //Detructor
+         void DoSomeThing();
+         bool GetLearn(isLearn); //Get isLearn
+         void SetLearn();        //Set value isLearn
+        private:
+         bool isLearn;
+       }  
+       ```
 ### OOP have atribute: 
 
   - [Abstraction](#abstraction)
@@ -88,22 +104,7 @@ OOP(Object-oriented programming)
 *Edit here*
 
 
-       ```
-       #include <iostream>
-
-       using namespace std;
-       class LearnOOP
-       {
-        public: 
-         LearnOOP(); //Constructor
-         ~LearnOOP(); //Detructor
-         void DoSomeThing();
-         bool GetLearn(isLearn); //Get isLearn
-         void SetLearn();        //Set value isLearn
-        private:
-         bool isLearn;
-       }  
-       ```
+      
 
 ### Properties
 
