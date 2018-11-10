@@ -79,7 +79,7 @@ OOP(Object-oriented programming)
      
 ### OOP have atribute: 
 
-  - [Abstraction](#abstraction)
+  - [Abstraction](#abstractionskill)
     - [Abstraction/Somehere](#somehere)
     - [Spritesheet Tools](#spritesheet-tools)
     - [Bitmap Compression](#bitmap-compression)
@@ -90,7 +90,11 @@ OOP(Object-oriented programming)
 #### Abstraction  
 --------
 *Great graphics placeholders and tools to turn that squared game into a picasso painting*
-
+ 
+ ##### Abstractionskill
+ --------
+ *Some body can know you know everything will know*
+ 
 #### Encapsulation
 --------
 *Great graphics placeholders and tools to turn that squared game into a picasso painting*
