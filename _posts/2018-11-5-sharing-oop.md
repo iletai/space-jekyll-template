@@ -91,8 +91,8 @@ OOP(Object-oriented programming)
 --------
 *Great graphics placeholders and tools to turn that squared game into a picasso painting*
  
- ##### Abstractionskill
- --------
+##### Abstractionskill
+--------
  *Some body can know you know everything will know*
  
 #### Encapsulation
