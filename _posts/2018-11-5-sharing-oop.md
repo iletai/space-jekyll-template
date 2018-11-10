@@ -25,9 +25,32 @@ categories:
 
 **What is OOP?**
 OOP(Object-oriented programming) 
- * Object 
-  > What is Object? It can be a pig, a dog, a human or a pen, table..
 
+ * What is OOP?
+  > Object-oriented programming (OOP) is a programming language model organized around **objects** rather than "actions" and data rather than logic. Historically, a program has been viewed as a logical procedure that takes input data, processes it, and produces output data.
+  
+  * Why we select OOP?
+   > Many years ago, the scale of the software project is small and programmer can sloved it and don't need to much time.And tructured programming(call by procedural programing),this technique is mostly and when project more biger after, we need oop to sloved issues.
+---
+
+   * Object 
+    > What is Object? It can be a pig, a dog, a human or a pen, table..
+
+   * Class
+    > Class include **Object** and Object have attributes and method.
+
+     ```
+     Class Pig
+     Attributes:
+      Color;
+      Width;
+      Height;
+      Weight;
+     Method:
+      Sleep;
+      Eats;
+     ...
+     ```
 
 ### OOP have atribute: 
 
